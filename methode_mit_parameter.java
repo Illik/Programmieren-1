@@ -4,7 +4,7 @@ public class methode_mit_parameter
 
 public static void main (String [] args)
 	{
-	long al=1L, bl=99999L;
+	long al=1L, bl=100000L;
 	int ai=1, bi=99999;
 	double dx = 3.14;
     double dy = 999D;
